@@ -1,0 +1,1 @@
+webpackHotUpdate(0,{"./src/index.js":function(e,n,a){"use strict";a.r(n);var d=a("./node_modules/lodash/lodash.js"),c=a.n(d);a("./src/style.css");var r=a("./src/dice.png"),s=a.n(r);document.body.appendChild(function(){var e,n=document.createElement("div");n.innerHTML=c.a.join([(e=2,e*e),"webpack"]," ");var a=new Image;return a.src=s.a,n.appendChild(a),n}())}});
